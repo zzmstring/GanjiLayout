@@ -1,0 +1,22 @@
+<com.zzmstring.ganjilayout.GanjiLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@mipmap/topbg">
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="@mipmap/contentbg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+    </RelativeLayout>
+
+
+</com.zzmstring.ganjilayout.GanjiLayout>
